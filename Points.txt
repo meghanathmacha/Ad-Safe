@@ -1,0 +1,7 @@
+Advantages :
+	1) Semi Supervised Learning (Co Learning).
+	2) Taking both the Text and links of a given site into consideration.
+	3) Weighted Approach to the Classification. 
+	4) Dynamic Nature of the code.(Usage of Standard Library Kits like nltk).
+	5) Take cares of False Positives by sub classifying them into Games,News,Medicine related sites.
+	6) 1-5 rating of each class.
